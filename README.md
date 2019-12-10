@@ -1,2 +1,2 @@
-# consys
+# ConSys
 Test repo
